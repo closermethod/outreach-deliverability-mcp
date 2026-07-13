@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * Outreach Deliverability MCP Server v1.0
  * By Elisabeth Hitz — the channel-safety layer for cold outreach.
